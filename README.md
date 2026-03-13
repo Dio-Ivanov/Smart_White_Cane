@@ -27,8 +27,7 @@ Traditional white canes rely on physical contact to detect obstacles. This devic
 | **Power Supply** | **6V DC** (4 x 1.5V AAA/AA Batteries) |
 
 
-[Image of Arduino Nano pinout diagram](images/Arduino-Nano-pinout-diagram.jpg
-)
+[Image of Arduino Nano pinout diagram](images/Arduino-Nano-pinout-diagram.jpg)
 
 ## 🖨️ 3D Printed Design & Corpus
 To transform the electronics into a durable tool, I designed custom 3D-printed housings. These components ensure the sensors are protected and the device is comfortable to hold.
