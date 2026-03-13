@@ -29,7 +29,7 @@ Traditional white canes rely on physical contact to detect obstacles. This devic
 
 ![Image of Arduino Nano pinout diagram](images/Arduino-Nano-pinout-diagram.jpg)
 
-## 🖨️ 3D Printed Design & Corpus
+## 🖨️ 3D Printed Designs
 To transform the electronics into a durable tool, I designed custom 3D-printed housings. These components ensure the sensors are protected and the device is comfortable to hold.
 
 | Component | Description | Preview |
