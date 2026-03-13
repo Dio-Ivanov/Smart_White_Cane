@@ -42,9 +42,9 @@ To transform the electronics into a durable tool, I designed custom 3D-printed h
 The system measures the "Time of Flight" of an ultrasonic pulse to calculate the distance to the nearest object.
 
 ### The Detection Logic:
-1. **Critical Zone (< 15cm):** Continuous vibration and a steady beep. Immediate stop required.
-2. **Warning Zone (15cm - 50cm):** Intermittent pulses. The frequency of beeps/vibration increases as the user gets closer to the object.
-3. **Safe Zone (> 50cm):** No feedback, allowing for clear movement.
+1. **Critical Zone (< 30cm):** Continuous vibration and a steady beep. Immediate stop required.
+2. **Warning Zone (30cm - 85cm):** Intermittent pulses. The frequency of beeps/vibration increases as the user gets closer to the object.
+3. **Safe Zone (> 100cm):** No feedback, allowing for clear movement.
 
 ![Circuit Diagram](images/Schematic.png)
 
